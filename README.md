@@ -10,6 +10,8 @@ PORTFOLIO
 
 LANDING PAGE
 
+![Screenshot 2024-03-22 204709](https://github.com/Keerthika-12345678/CODSOFT/assets/144042984/6673f808-00b8-4bf3-9ad8-7cfeb8c18e90)
+
 
 
 # TASK 3
